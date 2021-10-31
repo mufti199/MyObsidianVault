@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "899605d9b005c603",
+    "type": "split",
+    "children": [
+      {
+        "id": "41361c4883f6a606",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "App Image Launcher.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bfc6d54968ca9e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "64bcbd145f997f10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "badc8743df6bbd39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6ec2d6680b73696",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dcb10ecd677634a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "98a032848d77cee6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "997639c75e3f15b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "App Image Launcher.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "41361c4883f6a606",
+  "lastOpenFiles": [
+    "App Image Launcher.md",
+    "Adversity Paradox.md",
+    "App Images.md"
+  ]
+}
