@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "41361c4883f6a606",
+        "id": "ca079e75d8de4b20",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "App Image Launcher.md",
+            "file": "Software/Masters by Reaserch.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "79fee810d353dfc5"
+      },
+      {
+        "id": "e58bf779fc14dad6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Software/Masters by Reaserch.md",
+            "mode": "preview"
+          }
+        },
+        "group": "79fee810d353dfc5"
       }
     ],
     "direction": "vertical"
@@ -52,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251
   },
   "right": {
     "id": "dcb10ecd677634a2",
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App Image Launcher.md",
+                "file": "Software/Masters by Reaserch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,12 +96,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237
   },
-  "active": "41361c4883f6a606",
+  "active": "ca079e75d8de4b20",
   "lastOpenFiles": [
-    "App Image Launcher.md",
-    "Adversity Paradox.md",
-    "App Images.md"
+    "Software/Masters by Reaserch.md",
+    "Software/AppImage.md",
+    "Software/AppImage Launcher.md",
+    "Software/Distributed Systems.md",
+    "Software/Tim Berglund - Kafka.md",
+    "Software/Mechatronics.md",
+    "Untitled.md",
+    "Untitled 5.md",
+    "Untitled 2.md",
+    "Untitled 3.md"
   ]
 }

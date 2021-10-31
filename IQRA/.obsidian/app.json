@@ -1,1 +1,11 @@
-{}
+{
+  "spellcheck": false,
+  "foldHeading": true,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "Nouman",
+    "Mechatronics"
+  ],
+  "promptDelete": false
+}
