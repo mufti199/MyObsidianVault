@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ca079e75d8de4b20",
+        "id": "59c9c0f45caf788f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software/Masters by Reaserch.md",
-            "mode": "source"
-          }
-        },
-        "group": "79fee810d353dfc5"
-      },
-      {
-        "id": "e58bf779fc14dad6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Software/Masters by Reaserch.md",
+            "file": "History/Untitled.md",
             "mode": "preview"
           }
-        },
-        "group": "79fee810d353dfc5"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/Masters by Reaserch.md",
+                "file": "History/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +85,17 @@
     "direction": "horizontal",
     "width": 237
   },
-  "active": "ca079e75d8de4b20",
+  "active": "59c9c0f45caf788f",
   "lastOpenFiles": [
+    "History/Untitled.md",
+    "Philosophy & Religion/Responsibilities of a Husband.md",
+    "Philosophy & Religion/Adversity Paradox.md",
     "Software/Masters by Reaserch.md",
     "Software/AppImage.md",
     "Software/AppImage Launcher.md",
     "Software/Distributed Systems.md",
     "Software/Tim Berglund - Kafka.md",
     "Software/Mechatronics.md",
-    "Untitled.md",
-    "Untitled 5.md",
-    "Untitled 2.md",
-    "Untitled 3.md"
+    "Untitled 5.md"
   ]
 }
