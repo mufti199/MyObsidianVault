@@ -7,5 +7,6 @@
     "Nouman",
     "Mechatronics"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "defaultViewMode": "source"
 }

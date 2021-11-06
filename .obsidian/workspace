@@ -1,45 +1,29 @@
 {
   "main": {
-    "id": "899605d9b005c603",
+    "id": "f0a906a9f2796bc0",
     "type": "split",
     "children": [
       {
-        "id": "878625c3665155f7",
+        "id": "14f2ac8fa72e8be9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Arabic Language/Masculine.md",
-            "mode": "source"
-          }
-        },
-        "group": "4bf7d42555202f30"
-      },
-      {
-        "id": "f22284551fdb0286",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Arabic Language/Masculine.md",
-            "mode": "preview"
-          }
-        },
-        "group": "4bf7d42555202f30"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0bfc6d54968ca9e7",
+    "id": "cf2c279e47161ee4",
     "type": "split",
     "children": [
       {
-        "id": "64bcbd145f997f10",
+        "id": "5be03824b594f32d",
         "type": "tabs",
         "children": [
           {
-            "id": "badc8743df6bbd39",
+            "id": "b3d5160e698bbbfb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +31,7 @@
             }
           },
           {
-            "id": "c6ec2d6680b73696",
+            "id": "4c91f3a7bcc93034",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,23 +49,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251
+    "width": 300
   },
   "right": {
-    "id": "dcb10ecd677634a2",
+    "id": "5a1d34fe70845af8",
     "type": "split",
     "children": [
       {
-        "id": "98a032848d77cee6",
+        "id": "5b03cd45bacfaf35",
         "type": "tabs",
         "children": [
           {
-            "id": "997639c75e3f15b4",
+            "id": "3b0525dbfffcd8c5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arabic Language/Masculine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,32 +74,14 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "debae2536f2a7518",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 237
+    "width": 300,
+    "collapsed": true
   },
-  "active": "878625c3665155f7",
-  "lastOpenFiles": [
-    "Arabic Language/Masculine.md",
-    "Arabic Language/Feminine.md",
-    "Arabic Language/Status.md",
-    "Arabic Language/01. Types of Words in Arabic - Basic Nahw.md",
-    "Feminine.md",
-    "Status.md",
-    "feminine.md",
-    "Arabic Language/Arabic Phonetic Rules.md",
-    "Raf'.md",
-    "202111062004 - Status.md"
-  ]
+  "active": "14f2ac8fa72e8be9",
+  "lastOpenFiles": []
 }
