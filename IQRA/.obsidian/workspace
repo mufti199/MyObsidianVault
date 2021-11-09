@@ -7,11 +7,8 @@
         "id": "878625c3665155f7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Philosophy & Religion/Surah Bakarah - Verse - The importance of Asr.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "4bf7d42555202f30"
       },
@@ -19,11 +16,8 @@
         "id": "f22284551fdb0286",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Philosophy & Religion/Surah Bakarah - Verse - The importance of Asr.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "4bf7d42555202f30"
       }
@@ -81,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy & Religion/Surah Bakarah - Verse - The importance of Asr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +101,7 @@
   },
   "active": "878625c3665155f7",
   "lastOpenFiles": [
-    "Philosophy & Religion/Surah Bakarah - Verse - The importance of Asr.md",
+    "Philosophy & Religion/Surah Al Bakarah - Verse - The importance of Asr.md",
     "Philosophy & Religion/Surah Al Imran - Verse 7 - Hidden Meanings.md",
     "Philosophy & Religion/Emily Chamlee-Wright.md",
     "Arabic Language/Arabic Phonetic Rules.md",
