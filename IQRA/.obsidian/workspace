@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophy & Religion/Surah Bakarah - Verse - The importance of Asr.md",
+            "file": "Life/Jonas Salk.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophy & Religion/Surah Bakarah - Verse - The importance of Asr.md",
+            "file": "Life/Jonas Salk.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy & Religion/Surah Bakarah - Verse - The importance of Asr.md",
+                "file": "Life/Jonas Salk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,14 +90,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "debae2536f2a7518",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ]
@@ -108,15 +100,15 @@
   },
   "active": "878625c3665155f7",
   "lastOpenFiles": [
-    "Philosophy & Religion/Surah Bakarah - Verse - The importance of Asr.md",
-    "Philosophy & Religion/Surah Al Imran - Verse 7 - Hidden Meanings.md",
-    "Philosophy & Religion/Emily Chamlee-Wright.md",
+    "Life/Jonas Salk.md",
+    "Life/Emily Chamlee-Wright.md",
+    "Life/Surah Bakarah - Verse - The importance of Asr.md",
+    "Life/Surah Al Imran - Verse 7 - Hidden Meanings.md",
     "Arabic Language/Arabic Phonetic Rules.md",
     "Arabic Language/Status.md",
     "Arabic Language/Feminine.md",
     "Arabic Language/01. Types of Words in Arabic - Basic Nahw.md",
     "Arabic Language/Masculine.md",
-    "Feminine.md",
-    "Status.md"
+    "Feminine.md"
   ]
 }
