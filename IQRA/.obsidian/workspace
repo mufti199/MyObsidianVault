@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "9f631673be48cf3d",
+        "id": "3ace2beb24da1f74",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Mustafa Akyol.md",
+            "file": "Life/The Five Pillars of Islam.md",
             "mode": "source"
           }
         },
-        "group": "6d7be4f77c2b700e"
+        "group": "079072249c51213b"
       },
       {
-        "id": "7c23fbe5d55c03b2",
+        "id": "5b8ddac533c41d67",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Mustafa Akyol.md",
+            "file": "Life/The Five Pillars of Islam.md",
             "mode": "preview"
           }
         },
-        "group": "6d7be4f77c2b700e"
+        "group": "079072249c51213b"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Mustafa Akyol.md",
+                "file": "Life/The Five Pillars of Islam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "direction": "horizontal",
     "width": 237
   },
-  "active": "9f631673be48cf3d",
+  "active": "3ace2beb24da1f74",
   "lastOpenFiles": [
+    "Life/The Five Pillars of Islam.md",
+    "Life/Shahadah.md",
+    "Life/Emily Chamlee-Wright.md",
+    "Life/Adversity Paradox.md",
     "Life/Mustafa Akyol.md",
     "Life/Utilitariansim.md",
     "Life/Philippa Foot.md",
-    "Life/Emily Chamlee-Wright.md",
     "Life/Conversation.md",
     "Life/Jonas Salk.md",
-    "Life/Surah Al Imran - Verse 7 - Hidden Meanings.md",
-    "Life/Surah Baqarah - Verse 238 - The importance of Asr.md",
-    "History/Untitled.md",
-    "Philosophy & Religion/Surah Al Bakarah - Verse - The importance of Asr.md"
+    "Life/Surah Al Imran - Verse 7 - Hidden Meanings.md"
   ]
 }
