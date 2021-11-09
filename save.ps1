@@ -1,10 +1,10 @@
 function Save {
     param (
         [Parameter(Mandatory=$true)]
-        [string]$CommitName
+        [string]$CommitMessage
     )
     git add .
-    git commit -m $CommitName
+    git commit -m $CommitMessage
     git push
 }
 
