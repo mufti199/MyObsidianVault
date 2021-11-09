@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/The Five Pillars of Islam.md",
+            "file": "Life/Shahadah.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/The Five Pillars of Islam.md",
+            "file": "Life/Shahadah.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/The Five Pillars of Islam.md",
+                "file": "Life/Shahadah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +108,8 @@
   },
   "active": "3ace2beb24da1f74",
   "lastOpenFiles": [
-    "Life/The Five Pillars of Islam.md",
     "Life/Shahadah.md",
+    "Life/The Five Pillars of Islam.md",
     "Life/Emily Chamlee-Wright.md",
     "Life/Adversity Paradox.md",
     "Life/Mustafa Akyol.md",
