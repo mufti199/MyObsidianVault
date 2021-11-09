@@ -8,3 +8,6 @@ I suspect he did not receive the Noble Prize because the scientific community wa
 #### Who owns the Polio vaccine patent?
 > " Well, the people, I would say. There is no patent. Could you patent the sun? " - Jonas Salk, 1955
 
+
+---
+tags: #people

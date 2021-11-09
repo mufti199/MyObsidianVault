@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "878625c3665155f7",
+        "id": "9f631673be48cf3d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Jonas Salk.md",
+            "file": "Life/Mustafa Akyol.md",
             "mode": "source"
           }
         },
-        "group": "4bf7d42555202f30"
+        "group": "6d7be4f77c2b700e"
       },
       {
-        "id": "f22284551fdb0286",
+        "id": "7c23fbe5d55c03b2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Jonas Salk.md",
+            "file": "Life/Mustafa Akyol.md",
             "mode": "preview"
           }
         },
-        "group": "4bf7d42555202f30"
+        "group": "6d7be4f77c2b700e"
       }
     ],
     "direction": "vertical"
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Jonas Salk.md",
+                "file": "Life/Mustafa Akyol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +91,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "debae2536f2a7518",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,20 +106,17 @@
     "direction": "horizontal",
     "width": 237
   },
-  "active": "878625c3665155f7",
+  "active": "9f631673be48cf3d",
   "lastOpenFiles": [
-    "Life/Surah Al Bakarah - Verse - The importance of Asr.md",
-    "Life/Surah Al Imran - Verse 7 - Hidden Meanings.md",
+    "Life/Mustafa Akyol.md",
+    "Life/Utilitariansim.md",
+    "Life/Philippa Foot.md",
     "Life/Emily Chamlee-Wright.md",
+    "Life/Conversation.md",
     "Life/Jonas Salk.md",
-    "Life/Emily Chamlee-Wright.md",
-    "Life/Surah Bakarah - Verse - The importance of Asr.md",
     "Life/Surah Al Imran - Verse 7 - Hidden Meanings.md",
-    "Arabic Language/Arabic Phonetic Rules.md",
-    "Arabic Language/Status.md",
-    "Arabic Language/Feminine.md",
-    "Arabic Language/01. Types of Words in Arabic - Basic Nahw.md",
-    "Arabic Language/Masculine.md",
-    "Feminine.md"
+    "Life/Surah Baqarah - Verse 238 - The importance of Asr.md",
+    "History/Untitled.md",
+    "Philosophy & Religion/Surah Al Bakarah - Verse - The importance of Asr.md"
   ]
 }
