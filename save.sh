@@ -1,5 +1,5 @@
 #!/bin/bash
-IFS= read -r -e -p "Commit Message: " CommitMessage
+read -r -e -p "Commit Message: " CommitMessage
 echo $CommitMessage
 git pull
 git add .
