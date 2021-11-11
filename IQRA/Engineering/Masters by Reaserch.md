@@ -17,6 +17,6 @@
 
 ### South Australia
 
-[[Mechatronics]]
+[[Masters by Reaserch - Mechatronics]]
 
 [YouTube - A Simple Trick To Find Your Research Gap Or Niche In Writing Papers - Literature Review & PhD Thesis](https://youtu.be/zGPiYSp61qs)

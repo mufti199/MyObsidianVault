@@ -1,3 +1,5 @@
+# Tim Berglund
+
 [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 
 What to do when a Single-Master Storage needs to scale up reads'?

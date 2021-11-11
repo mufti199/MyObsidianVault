@@ -8,7 +8,7 @@
 
 # Self-Taught
 
-[[Tim Berglund - Kafka]]
+[[Kafka]]
 
 [Four Distributed System Architecture Patterns - Tim Berglund](https://www.notion.so/Four-Distributed-System-Architecture-Patterns-Tim-Berglund-063c94366715470c84f51986ca4fef98)
 

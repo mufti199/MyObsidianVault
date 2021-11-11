@@ -18,4 +18,3 @@ I agree with these elements and the reasons of why they help create deep, fulfil
 
 ---
 tags: #people 
-related: [[Conversation]]

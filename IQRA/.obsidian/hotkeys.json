@@ -22,5 +22,25 @@
       ],
       "key": "]"
     }
+  ],
+  "editor:insert-embed": [],
+  "editor:insert-wikilink": [],
+  "table-editor-obsidian:sort-rows-ascending": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "table-editor-obsidian:sort-rows-descending": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }
