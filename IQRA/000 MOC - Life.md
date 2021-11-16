@@ -1,8 +1,9 @@
 # Knowledge
-| Notes                 |
-| --------------------- |
-| [[Adversity Paradox]] |
-| [[Utilitariansim]]    |
+| Notes                      |
+| -------------------------- |
+| [[Adversity Paradox]]      |
+| [[Asking Right Questions]] |
+| [[Utilitariansim]]         |
 
 # People
 [[People]]

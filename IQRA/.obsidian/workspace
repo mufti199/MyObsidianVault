@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c3a28935ac604ad5",
+        "id": "9f6be2b55ad6747e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Emily Chamlee-Wright.md",
+            "file": "Arabic Language/Status.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "4b515f906c19607c"
+      },
+      {
+        "id": "a0708e33888991d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Arabic Language/Status.md",
+            "mode": "preview"
+          }
+        },
+        "group": "4b515f906c19607c"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Emily Chamlee-Wright.md",
+                "file": "Arabic Language/Status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,17 +106,17 @@
     "direction": "horizontal",
     "width": 237
   },
-  "active": "c3a28935ac604ad5",
+  "active": "9f6be2b55ad6747e",
   "lastOpenFiles": [
-    "Life/Emily Chamlee-Wright.md",
-    "Life/Shariah.md",
-    "000 MOC - Life.md",
+    "Arabic Language/Status.md",
+    "Partially Flexible.md",
+    "Arabic Language/Types of Words in Arabic - Basic Nahw.md",
     "100 MOC - Arabic Language.md",
-    "020 MOC - History.md",
-    "010 MOC - Engineering.md",
-    "Life/Muhammad ibn Jarir al-Tabari.md",
-    "Life/People.md",
-    "Life/Tafsir.md",
-    "Life/Religious Questions.md"
+    "000 MOC - Life.md",
+    "Life/Erwin Schrodinger.md",
+    "Life/Rene Descartes.md",
+    "Life/Niccolò Fontana Tartaglia.md",
+    "Life/Rafael Bombelli.md",
+    "Life/Gerolamo Cardano.md"
   ]
 }

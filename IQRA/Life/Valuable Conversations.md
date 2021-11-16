@@ -14,7 +14,10 @@ A seemingly winning forumla is to be humble. To have the humility to recognize t
 	- This has to be done while resisting the urge to find the flaws in the other peron's logic.
 
 ### My Opinion
-I agree with these elements and the reasons of why they help create deep, fulfilling conversations. However, it is important to note that, there are conversation that might not have much value in terms of insights but can still have carry a profound experience. These types of conversations are usually very rare and are highly dependent upon the person(s) and setting.
+I agree with these elements and the reasons of why they help create deep, fulfilling conversations. However, in order to do both **or** by doing both effectively (kind of like an closed feedback loop) another essential component comes into play, which is [[Asking Right Questions]].
+
+Furthermore, it is important to note that, there are conversation that might not have much value in terms of insights but can still have carry a profound experience. These types of conversations are usually very rare and are highly dependent upon the person(s) and setting.
+ 
 
 ---
-tags: #people 
+tags: #theory 

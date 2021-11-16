@@ -9,7 +9,7 @@
 # Speakers
 | Notes                    |
 | ------------------------ |
-| [[Emily Chamlee-Wright]] |
+| [[Valuable Conversations]] |
 | [[Mustafa Akyol]]        |
 
 # Philosophers

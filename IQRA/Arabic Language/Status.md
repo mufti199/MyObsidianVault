@@ -35,9 +35,9 @@ Refer to [[Arabic Language - Masculine]] and [[Arabic Language - Feminine]].
 ## Light, Heavy and Irrelevant
 A status can also be light, heavy or irrelevant. The default for a status is to be heavy. This is when the Ism ends in an "n"-sound such as ***uuna*** or ***aateen***.
 
-A status is classified as irrelevant when the word starts with "Al" (The), such as "Al-hamd" (The praise).
+A status is classified as irrelevant when the word starts with "Al" (The), such as "Al-hamd" (The praise). All words that start with "Al" are fully flexible. 
 
-Lastly, a status is said to be light when the word traditional "n" is removed. This can only occur under special circumstances.
+Lastly, a status is said to be light when the words traditional "n"-sound is removed. This can only occur under special circumstances.
 <br>
 
 ## Flexibility
@@ -45,7 +45,18 @@ Most Ism's can have various endings depending upon their status, however there i
 
 There are three kinds of flexibility:
 1. Fully Flexible
-2. Partially Flexible
+2. [[Partially Flexible]]
+> Partially flexible words must be light (the "n"-sound is removed) and cannot have the "e"-sound at the end, even for a Jar.
+>
+> There are seven categories were partially flexible words are used. However, for the study of the Quran, we can focus on only two categories:
+> 1. Non-arab names (people, angels, etc.), such as Jibrael
+> 2. Places
+>
+> ## Exceptions
+> 1. If the word has an "Al" (The), it is fully flexible.
+> 2. Three letter names or places are fully flexible.
+> *Take caution when counting the letters of an arabic word.*
+> 
 3. Infexible
 
 

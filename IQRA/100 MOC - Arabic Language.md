@@ -2,6 +2,7 @@ Arabic is a beautiful language used by millions of people all across the world. 
 
 ## Grammar
 1. [[Types of Words in Arabic - Basic Nahw]]
+2. 
 
 
 ## Phonology
