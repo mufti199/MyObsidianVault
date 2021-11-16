@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c3a28935ac604ad5",
+        "id": "16bf18b1821e6fde",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Emily Chamlee-Wright.md",
+            "file": "Engineering/Bezier Curve.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "41c5c8c501581688"
+      },
+      {
+        "id": "8177a0aa82e01cce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Engineering/Bezier Curve.md",
+            "mode": "preview"
+          }
+        },
+        "group": "41c5c8c501581688"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Emily Chamlee-Wright.md",
+                "file": "Engineering/Bezier Curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,14 +91,6 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "debae2536f2a7518",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ]
       }
@@ -93,17 +98,17 @@
     "direction": "horizontal",
     "width": 237
   },
-  "active": "c3a28935ac604ad5",
+  "active": "16bf18b1821e6fde",
   "lastOpenFiles": [
+    "Engineering/Bezier Curve.md",
+    "Life/Jonas Salk.md",
     "Life/Emily Chamlee-Wright.md",
-    "Life/Shariah.md",
-    "000 MOC - Life.md",
-    "100 MOC - Arabic Language.md",
-    "020 MOC - History.md",
-    "010 MOC - Engineering.md",
-    "Life/Muhammad ibn Jarir al-Tabari.md",
-    "Life/People.md",
-    "Life/Tafsir.md",
-    "Life/Religious Questions.md"
+    "Life/Surah Bakarah - Verse - The importance of Asr.md",
+    "Life/Surah Al Imran - Verse 7 - Hidden Meanings.md",
+    "Arabic Language/Arabic Phonetic Rules.md",
+    "Arabic Language/Status.md",
+    "Arabic Language/Feminine.md",
+    "Arabic Language/01. Types of Words in Arabic - Basic Nahw.md",
+    "Arabic Language/Masculine.md"
   ]
 }
