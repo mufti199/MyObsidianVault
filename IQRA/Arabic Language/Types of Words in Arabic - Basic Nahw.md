@@ -10,7 +10,7 @@ There are three kinds of words in the Arabic Language:
 
 ## Properties of Ism
 All Ism have four properties. They are:
-1. [[Status]]
+1. [[Arabic Status]]
 2. Gender
 3. Number
 4. Type
