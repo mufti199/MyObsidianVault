@@ -1,9 +1,10 @@
 # Knowledge
-| Notes                      |
-| -------------------------- |
-| [[Adversity Paradox]]      |
-| [[Asking Right Questions]] |
-| [[Utilitariansim]]         |
+| Maps           |
+| -------------- |
+| [[Behaviours]] |
+| [[Economics]]  |
+| [[Nature]]     |
+| [[Philosophy]] |
 
 # People
 [[People]]

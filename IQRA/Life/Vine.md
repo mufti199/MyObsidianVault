@@ -1,0 +1,1 @@
+A vine, also a woody plant, cannot stand on its own but needs to support itself on something. Again, no trunk.

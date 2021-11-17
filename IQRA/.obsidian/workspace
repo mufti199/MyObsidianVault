@@ -1,31 +1,18 @@
 {
   "main": {
-    "id": "899605d9b005c603",
+    "id": "343a68bf0b53ec13",
     "type": "split",
     "children": [
       {
-        "id": "9f6be2b55ad6747e",
+        "id": "2182f462ca3973fe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Arabic Language/Arabic Status.md",
+            "file": "Life/Vine.md",
             "mode": "source"
           }
-        },
-        "group": "4b515f906c19607c"
-      },
-      {
-        "id": "a0708e33888991d0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Arabic Language/Arabic Status.md",
-            "mode": "preview"
-          }
-        },
-        "group": "4b515f906c19607c"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arabic Language/Arabic Status.md",
+                "file": "Life/Vine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +93,17 @@
     "direction": "horizontal",
     "width": 237
   },
-  "active": "9f6be2b55ad6747e",
+  "active": "2182f462ca3973fe",
   "lastOpenFiles": [
-    "Arabic Language/Arabic Status.md",
-    "Partially Flexible.md",
-    "Arabic Language/Types of Words in Arabic - Basic Nahw.md",
-    "100 MOC - Arabic Language.md",
+    "Life/Vine.md",
+    "Life/Behaviours.md",
+    "Untitled.md",
     "000 MOC - Life.md",
-    "Life/Erwin Schrodinger.md",
-    "Life/Rene Descartes.md",
-    "Life/Niccolò Fontana Tartaglia.md",
-    "Life/Rafael Bombelli.md",
-    "Life/Gerolamo Cardano.md"
+    "Life/Nature.md",
+    "Life/Economics.md",
+    "Life/Philosophy.md",
+    "Life/Tree.md",
+    "Life/Palm.md",
+    "Life/Shrub (or Bush).md"
   ]
 }

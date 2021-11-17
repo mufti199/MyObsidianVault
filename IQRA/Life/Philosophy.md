@@ -1,0 +1,4 @@
+| Notes                      |
+| -------------------------- |
+| [[Adversity Paradox]]      |
+| [[Utilitariansim]]         |

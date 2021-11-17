@@ -1,0 +1,1 @@
+A shrub or bush, on the other hand, is a woody plant that grows low and has multiple stems. No trunk.
