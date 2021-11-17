@@ -1,3 +1,10 @@
+# Journey
+| Notes                   |
+| ----------------------- |
+| [[001 Qawwamun]]        |
+| [[Masters by Reaserch]] |
+
+
 # Knowledge
 | Maps           |
 | -------------- |
@@ -26,9 +33,5 @@
 | [[Poetry]]  |
 | [[Stories]] |
 
-# Goals
-| Notes                   |
-| ----------------------- |
-| [[Masters by Reaserch]] |
 
 ---
