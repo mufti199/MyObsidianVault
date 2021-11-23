@@ -1,3 +1,10 @@
+# Goals
+| Notes                   |
+| ----------------------- |
+| [[Masters by Reaserch]] |
+
+
+
 # Knowledge
 | Notes                      |
 | -------------------------- |
@@ -25,9 +32,5 @@
 | [[Poetry]]  |
 | [[Stories]] |
 
-# Goals
-| Notes                   |
-| ----------------------- |
-| [[Masters by Reaserch]] |
 
 ---

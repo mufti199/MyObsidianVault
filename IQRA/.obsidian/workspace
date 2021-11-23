@@ -1,31 +1,18 @@
 {
   "main": {
-    "id": "899605d9b005c603",
+    "id": "6d310123efcb8cb1",
     "type": "split",
     "children": [
       {
-        "id": "9f6be2b55ad6747e",
+        "id": "c1b51b80b33ebce5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Arabic Language/Arabic Status.md",
+            "file": "000 MOC - Life.md",
             "mode": "source"
           }
-        },
-        "group": "4b515f906c19607c"
-      },
-      {
-        "id": "a0708e33888991d0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Arabic Language/Arabic Status.md",
-            "mode": "preview"
-          }
-        },
-        "group": "4b515f906c19607c"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arabic Language/Arabic Status.md",
+                "file": "000 MOC - Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,14 +78,6 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "debae2536f2a7518",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ]
       }
@@ -106,17 +85,17 @@
     "direction": "horizontal",
     "width": 237
   },
-  "active": "9f6be2b55ad6747e",
+  "active": "c1b51b80b33ebce5",
   "lastOpenFiles": [
-    "Arabic Language/Arabic Status.md",
-    "Partially Flexible.md",
-    "Arabic Language/Types of Words in Arabic - Basic Nahw.md",
-    "100 MOC - Arabic Language.md",
     "000 MOC - Life.md",
-    "Life/Erwin Schrodinger.md",
-    "Life/Rene Descartes.md",
-    "Life/Niccolò Fontana Tartaglia.md",
-    "Life/Rafael Bombelli.md",
-    "Life/Gerolamo Cardano.md"
+    "Life/Muhammad ibn Jarir al-Tabari.md",
+    "Life/Philippa Foot.md",
+    "Life/Gerolamo Cardano.md",
+    "Engineering/Bezier Curve.md",
+    "Life/Jonas Salk.md",
+    "Life/Emily Chamlee-Wright.md",
+    "Life/Surah Bakarah - Verse - The importance of Asr.md",
+    "Life/Surah Al Imran - Verse 7 - Hidden Meanings.md",
+    "Arabic Language/Arabic Phonetic Rules.md"
   ]
 }
