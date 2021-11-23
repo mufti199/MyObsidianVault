@@ -1,26 +1,15 @@
 {
   "main": {
-    "id": "343a68bf0b53ec13",
+    "id": "6d310123efcb8cb1",
     "type": "split",
     "children": [
       {
-        "id": "2182f462ca3973fe",
+        "id": "c1b51b80b33ebce5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "000 MOC - Life.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a96711260259a980",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "001 Qawwamun.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Qawwamun.md",
+                "file": "000 MOC - Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +85,17 @@
     "direction": "horizontal",
     "width": 237
   },
-  "active": "a96711260259a980",
+  "active": "c1b51b80b33ebce5",
   "lastOpenFiles": [
-    "001 Qawwamun.md",
     "000 MOC - Life.md",
-    "Life/Behaviours.md",
-    "Life/Asking Right Questions.md",
-    "Life/Conversation.md",
-    "Life/Vine.md",
-    "Untitled.md",
-    "Life/Nature.md",
-    "Life/Economics.md",
-    "Life/Philosophy.md"
+    "Life/Muhammad ibn Jarir al-Tabari.md",
+    "Life/Philippa Foot.md",
+    "Life/Gerolamo Cardano.md",
+    "Engineering/Bezier Curve.md",
+    "Life/Jonas Salk.md",
+    "Life/Emily Chamlee-Wright.md",
+    "Life/Surah Bakarah - Verse - The importance of Asr.md",
+    "Life/Surah Al Imran - Verse 7 - Hidden Meanings.md",
+    "Arabic Language/Arabic Phonetic Rules.md"
   ]
 }
