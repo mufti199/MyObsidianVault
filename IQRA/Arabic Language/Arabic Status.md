@@ -45,6 +45,9 @@ Most Ism's can have various endings depending upon their status, however there i
 
 There are three kinds of flexibility:
 1. Fully Flexible
+> 1. 
+> 2. If the word has an "Al" (The), it is fully flexible.
+> 2. Three letter names or places are fully flexible.
 2. [[Partially Flexible]]
 > Partially flexible words must be light (the "n"-sound is removed) and cannot have the "e"-sound at the end, even for a Jar.
 >

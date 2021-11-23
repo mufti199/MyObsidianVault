@@ -1,16 +1,17 @@
-# Goals
+# Journey
 | Notes                   |
 | ----------------------- |
+| [[001 Qawwamun]]        |
 | [[Masters by Reaserch]] |
 
 
-
 # Knowledge
-| Notes                      |
-| -------------------------- |
-| [[Adversity Paradox]]      |
-| [[Asking Right Questions]] |
-| [[Utilitariansim]]         |
+| Maps           |
+| -------------- |
+| [[Behaviours]] |
+| [[Economics]]  |
+| [[Nature]]     |
+| [[Philosophy]] |
 
 # People
 [[People]]
