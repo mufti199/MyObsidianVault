@@ -4,15 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "c1b51b80b33ebce5",
+        "id": "73f3ab84e6cf63e1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 MOC - Life.md",
-            "mode": "source"
+            "file": "010 MOC - Engineering.md",
+            "mode": "source",
+            "source": true
           }
-        }
+        },
+        "group": "b3c62934921fcc9a"
+      },
+      {
+        "id": "8c6b746bcbb5615a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "010 MOC - Engineering.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "b3c62934921fcc9a"
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 MOC - Life.md",
+                "file": "010 MOC - Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +100,17 @@
     "direction": "horizontal",
     "width": 237
   },
-  "active": "c1b51b80b33ebce5",
+  "active": "73f3ab84e6cf63e1",
   "lastOpenFiles": [
+    "010 MOC - Engineering.md",
+    "Engineering/Terminal vs Bash.md",
     "000 MOC - Life.md",
+    "001 Qawwamun.md",
+    "100 MOC - Arabic Language.md",
+    "Engineering/AppImage.md",
+    "Images/Pasted image 20220302135402.png",
+    "Pasted image 20220302135409.png",
     "Life/Muhammad ibn Jarir al-Tabari.md",
-    "Life/Philippa Foot.md",
-    "Life/Gerolamo Cardano.md",
-    "Engineering/Bezier Curve.md",
-    "Life/Jonas Salk.md",
-    "Life/Emily Chamlee-Wright.md",
-    "Life/Surah Bakarah - Verse - The importance of Asr.md",
-    "Life/Surah Al Imran - Verse 7 - Hidden Meanings.md",
-    "Arabic Language/Arabic Phonetic Rules.md"
+    "Life/Philippa Foot.md"
   ]
 }

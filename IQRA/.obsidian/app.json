@@ -8,5 +8,7 @@
     "Mechatronics"
   ],
   "promptDelete": false,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "legacyEditor": false,
+  "livePreview": true
 }

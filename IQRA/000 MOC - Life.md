@@ -23,7 +23,7 @@
 | [[Shariah]] |
 | [[Surah]]   |
 | [[Tafsir]]  |
-| [[Religious Questions]]            |
+| [[Religious Questions]]|
 
 # Literature
 | Maps        |
