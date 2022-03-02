@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "73f3ab84e6cf63e1",
+        "id": "d239bd176c8578de",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "010 MOC - Engineering.md",
+            "file": "Engineering/The 4 Pillars of OOP.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
-        },
-        "group": "b3c62934921fcc9a"
-      },
-      {
-        "id": "8c6b746bcbb5615a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "010 MOC - Engineering.md",
-            "mode": "preview",
-            "source": true
-          }
-        },
-        "group": "b3c62934921fcc9a"
+        }
       }
     ],
     "direction": "vertical"
@@ -83,15 +69,23 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 MOC - Engineering.md",
+                "file": "Engineering/The 4 Pillars of OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "af23c2c0bf0d6fe0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
@@ -100,17 +94,17 @@
     "direction": "horizontal",
     "width": 237
   },
-  "active": "73f3ab84e6cf63e1",
+  "active": "d239bd176c8578de",
   "lastOpenFiles": [
+    "Engineering/The 4 Pillars of OOP.md",
     "010 MOC - Engineering.md",
-    "Engineering/Terminal vs Bash.md",
-    "000 MOC - Life.md",
+    "Engineering/Refactoring.md",
+    "Engineering/The SOLID Principles.md",
+    "Engineering/Object Oriented Programming.md",
+    "020 MOC - History.md",
     "001 Qawwamun.md",
-    "100 MOC - Arabic Language.md",
-    "Engineering/AppImage.md",
-    "Images/Pasted image 20220302135402.png",
-    "Pasted image 20220302135409.png",
-    "Life/Muhammad ibn Jarir al-Tabari.md",
-    "Life/Philippa Foot.md"
+    "000 MOC - Life.md",
+    "Engineering/Design Patterns.md",
+    "Engineering/Database.md"
   ]
 }
