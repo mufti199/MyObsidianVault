@@ -10,5 +10,5 @@
   "promptDelete": false,
   "defaultViewMode": "source",
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": false
 }
