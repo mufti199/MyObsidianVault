@@ -17,7 +17,7 @@ Manages the display of data.
 - Razor (ASP.NET)
 <br>
 # Controller
-Handles page events and navigation between pages
+Handles page events and navigation between pages. Therefore, a controller has classes and methods that are used for routing and API endpoints. 
 <br>
 # Architecture Diagram
 The following shows how a Website/WebApp operates via MVC:

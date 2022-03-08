@@ -11,5 +11,9 @@ Just imagine what I can become in not 5, but in just 2 simple years!
 ### Dopamine
 The best way to get dopamine is not as a consequence of completing an action but rather by the performance of an action. In other words, don't get happy because you've completed the task, be happy because you're doing the task!
 
-## Hard Choices = Good Life
+## Difficult Tasks -> Prosperous Life
 > Comfort Kills The Soul
+
+<br>
+# Remember
+[[The Abuse she suffered]]
