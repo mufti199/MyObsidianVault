@@ -70,6 +70,9 @@ The review is a web-based assessment which examines the five pillars and provide
 
 # [[Security Pillar]]
 # [[Performance Pillar]]
+# [[Operational Excellence Pillar]]
+
+## [[Azure Well-Architected Checklists]] - Accumulate all the lists from each pillar
 
 <br>
 
